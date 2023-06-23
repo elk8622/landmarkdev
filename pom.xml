@@ -94,14 +94,14 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://http://3.82.20.208:8081/repository/tesla-web-releases/</url>
+	      <name>Ella Releases Nexus Repository</name>
+	      <url>http://3.82.20.208:8081/repository/tesla-web-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://http://3.82.20.208:8081/repository/tesla-webapp-snapshots/</url>
+	      <name>Ella Snapshot Nexus Repository </name>
+	      <url>http://3.82.20.208:8081/repository/tesla-webapp-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
